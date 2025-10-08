@@ -52,5 +52,5 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://www.linkedin.com/in/yasmin-lopes-761523389/?trk=opento_sprofile_goalscard)  
+[![LinkedIn](https://www.linkedin.com/in/yasmin-lopes-761523389/)  
 [![Instagram](_yayasls)  
