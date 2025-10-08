@@ -33,8 +33,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Meu site** | [🔗 Ver online](https://yasminlopes9.github.io/html-css/)| HTML / CSS / JS          |
-| **Jokenpo** | [🔗 Ver online](https://yasminlopes9.github.io/Jokenpo/
-) | Node.js / Express / MySQL|
+| **Jokenpo** | [🔗 Ver online](https://yasminlopes9.github.io/Jokenpo/) | Node.js / Express / MySQL|
 | **Tabela Brasileirão** | [🔗 Ver online](https://yasminlopes9.github.io/tabelabrasileirao/) | Flutter / Dart           |
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
