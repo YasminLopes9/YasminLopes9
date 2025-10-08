@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Yasmin Lopes
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Back-End.
 
 ---
 
@@ -32,9 +32,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
+| **Meu site** | [🔗 Ver online](https://yasminlopes9.github.io/html-css/)| HTML / CSS / JS          |
+| **Jokenpo** | [🔗 Ver online](https://yasminlopes9.github.io/Jokenpo/
+) | Node.js / Express / MySQL|
+| **Tabela Brasileirão** | [🔗 Ver online](https://yasminlopes9.github.io/tabelabrasileirao/) | Flutter / Dart           |
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
@@ -42,15 +43,15 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 🎓 Atualmente estudo no **Sesi 427**
+- 💻 Estou aprendendo **Desenvolver Sites**
+- 🎯 Meu objetivo é **ser desenvolvedor de back-end**
+- 📚 Gosto de aprender sobre **HTML/CSS**
+- ✝ [Temos nosso próprio tempo]
 
 ---
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuusuario)  
+[![LinkedIn](https://www.linkedin.com/in/yasmin-lopes-761523389/?trk=opento_sprofile_goalscard)  
+[![Instagram](_yayasls)  
