@@ -44,7 +44,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 - 🎓 Atualmente estudo no **Sesi 427**
 - 💻 Estou aprendendo **Desenvolver Sites**
-- 🎯 Meu objetivo é **ser desenvolvedor de back-end**
+- 🎯 Meu objetivo é **ser desenvolvedora de back-end**
 - 📚 Gosto de aprender sobre **HTML/CSS**
 - ✝ [Temos nosso próprio tempo]
 
